@@ -1,0 +1,11 @@
+Order_ID,Product,Quantity,Price,City,Order_Date
+1001,Laptop,2,50000,Bhubaneswar,2025-01-10
+1002,Mouse,5,500,Cuttack,2025-01-12
+1003,Keyboard,3,1500,Puri,2025-02-05
+1004,Laptop,1,50000,Bhubaneswar,2025-02-15
+1005,Monitor,2,10000,Cuttack,2025-03-01
+1006,Mouse,4,500,Puri,2025-03-10
+1007,Keyboard,2,1500,Bhubaneswar,2025-04-05
+1008,Laptop,3,50000,Cuttack,2025-04-12
+1009,Monitor,1,10000,Puri,2025-05-02
+1010,Mouse,6,500,Bhubaneswar,2025-05-15
